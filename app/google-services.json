@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824302760532",
+    "project_id": "lood-3c430",
+    "storage_bucket": "lood-3c430.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824302760532:android:6c0e2025a34560aa48b3c1",
+        "android_client_info": {
+          "package_name": "com.example.sushantproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavTzNY4Ol9d566t4bpPa6Ln_asU8lYBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
